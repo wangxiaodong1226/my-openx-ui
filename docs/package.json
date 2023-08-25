@@ -1,0 +1,9 @@
+{
+  "name": "@myopenxui/docs",
+  "private": true,
+  "scripts": {
+    "build": "echo build"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
